@@ -2,7 +2,7 @@
   "name": "vanilla-app-template",
   "private": true,
   "version": "1.0.0",
-  "type": "module",
+  "type": "module", 
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/goit-js-hw-10/",
